@@ -29,7 +29,7 @@ Retrieve tips:
 	http http://127.0.0.1:8000/users/
 	http http://127.0.0.1:8000/users/1/
 
-App is also on Heroku:
+App is also on Heroku: [https://pybites-tips.herokuapp.com/](https://pybites-tips.herokuapp.com/)
 
 Maybe we should add tips for real, ping us for a user (or we'll add registration over time ...)
 
