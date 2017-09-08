@@ -1,5 +1,6 @@
 certifi==2017.7.27.1
 chardet==3.0.4
+dj-database-url==0.4.2
 Django==1.11.5
 djangorestframework==3.6.4
 httpie==0.9.9
