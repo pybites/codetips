@@ -1,1 +1,1 @@
-web: gunicorn src.codetips.wsgi:application --log-file -
+web: gunicorn codetips.wsgi:application --log-file -
