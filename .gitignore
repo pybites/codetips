@@ -1,0 +1,5 @@
+venv
+src/db.sqlite3
+**.pyc
+**.swp
+**__pycache__
