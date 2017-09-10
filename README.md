@@ -1,5 +1,7 @@
 ## PCC 34 - DRF
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/pybites/codetips?branch=master)](https://bettercodehub.com/)
+
 A simple API to add coding tips, inspired by @python_tip and following DRF's awesome tutorial (part 1 - 4)
 
 To run it locally:
